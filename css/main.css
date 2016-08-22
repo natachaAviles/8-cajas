@@ -1,0 +1,33 @@
+ div {
+ 	width:100px;
+ 	height:100px;
+	background-color:#FCF417;
+	border:solid black;
+	border-width:1px;
+	
+ }
+
+ .primero {
+ 	margin-bottom:15px;
+ }
+
+ .contenedor{
+ 	 background-color:#06D982;
+ 	 width:330px;
+     padding:15px;
+     
+ }
+
+ .interno {
+ 	display:inline-block;
+ 	margin-right:5px; 
+ }
+
+ .pares {
+ 	margin-top:15px;
+ 	display:inline-block;
+ 	margin-right:10px;
+ }
+ .ultimo {
+ 	margin-top:10px;
+ }
